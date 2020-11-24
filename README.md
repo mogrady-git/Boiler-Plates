@@ -1,2 +1,2 @@
 # Boiler-Plates
-Designed for Quick start Prototyping
+Designed for Rapid Quick Start Prototyping & Proof Of Concepts
